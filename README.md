@@ -6,11 +6,10 @@ Preliminary exam (Pre-lim) and final defense (Defense) together.
 ### Exam format: Read and comment on 3 papers in the area chosen
 ### Exam topic: Review on Application of inverse neural networks on inverse problems
 
-### Proposed exam committee (3 out of 4)
-1. Prof. Cynthia Rudin (Pending)
-2. Prof. Stacy Tantem (Pending)
+### Proposed exam committee 
+1. Prof. Cynthia Rudin (Accepted)
+2. Prof. Stacy Tantem (Accepted)
 3. Prof. Kishor Trivedi (Accepted)
-4. Prof. Hai Li
 
 ### Papers to be reviewed:
 1. [ICRL 2015](./QE/papers/Non-linear%20Independent%20component%20estimation.pdf) NICE: Non-linear independent components estimation 
@@ -24,8 +23,10 @@ Preliminary exam (Pre-lim) and final defense (Defense) together.
 | ~~Finalize committee~~ |      ~~07.13~~|
 | ~~Reach out to committee members~~| ~~07.15~~ |
 | ~~Propose papers~~ | ~~07.20~~ |
-| First draft GCC consultation | 07.31 |
-| Second draft GCC consultation | 08.05 |
+| Prepare the first draft of document| 07.28 |
+| First round GCC consultation | 07.30 |
+| Modify to get 2nd draft | 08.02 |
+| Second round GCC consultation | 08.05 |
 | Written report to Jordan & Leslie | 08.07 |
 | Submit QE form to departement | 08.20 |
 | Final draft of documents | 09.07 |
